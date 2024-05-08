@@ -1,3 +1,12 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: FeihuXue
+ * @email: xuefeihu@stu.edu.xju.cn
+ * @Date: 2024-04-22 16:40:48
+ * @LastEditors: FeihuXue
+ * @LastEditTime: 2024-05-08 16:36:35
+-->
 # Programming
 本项目为软件编程大作业，主要内容为实现课上所讲解的内容的融合。
 
